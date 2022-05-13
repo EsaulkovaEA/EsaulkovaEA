@@ -8,7 +8,7 @@
 * JavaScript;
 * React;
 
-Как со мной связаться: 
+Как связаться со мной: 
 * telegram:@EkaterinaEsaulkova;
 * e-mail: esaulkovaea@gmail.com;
 
