@@ -1,8 +1,20 @@
-### Всем привет 👋
+### Всем привет, меня зовут Екатерина 👋
+-----
+Я начинающий веб-разработчик.
+
+**Мой стек:**
+* HTML;
+* CSS;
+* JavaScript;
+* React;
+
+Как со мной связаться: 
+* telegram:@EkaterinaEsaulkova;
+* e-mail: esaulkovaea@gmail.com;
 
 <!--
 **EsaulkovaEA/EsaulkovaEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Я
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
